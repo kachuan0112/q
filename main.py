@@ -17,8 +17,6 @@ intents.members = True
 
 #----------------------------------------------------#
 
-TOKEN="ODY1NDU0NzExMjMzNzA4MDMz.YPEPgg.uaq-XjWCnAu7McUBfv9t33wbaKg"
-
 bot = commands.Bot(command_prefix= "=" ,case_insensitive=True, description="not gonna use help commands")
 
 bot.remove_command("help")
